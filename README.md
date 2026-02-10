@@ -1,7 +1,12 @@
-# Penumbrant Papers
+# Margin Notes
 
-- **Colorado (CO)**: [Full Paper](link) | [One-Pager](link)  
+Exploring the penumbra of regulatory law—gray areas, ambiguities, and jurisdictional tensions in cannabis regulation.
 
-# ORA Reports
+- **Colorado (CO)**: [Margin Notes](link)
+- **Minnesota (MN)**: [Margin Notes](docs/Margin-Notes/MN-margin-notes.md)
 
-- **Colorado (CO)**: [ORA Report](link)
+# Field Notes: Ops vs Regs
+
+Analysis of operational reality versus regulatory requirements.
+
+- **Colorado (CO)**: [Field Notes](link)
