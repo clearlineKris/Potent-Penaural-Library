@@ -1,13 +1,10 @@
-# Exclude full Penumbrant Papers (50+ pages)
-docs/Penumbrant-Papers/
+# Exclude full Penumbrant Series papers (50+ pages)
+Penumbrant-Series/*.pdf
+!Penumbrant-Series/*-one-pager.pdf
 
 # Exclude long-form ORA Reports (keep ORA Leaflets visible)
-docs/ORA-Reports/
-
-# Optional: Keep one-pagers and ORA Leaflets visible
-# If you want to exclude these too, uncomment the lines below:
-# docs/Penumbrant-One-Pagers/
-# docs/ORA-Leaflets/
+ORA-Reports/*.pdf
+!ORA-Reports/*-leaflet.pdf
 
 # System files
 .DS_Store
