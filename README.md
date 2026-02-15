@@ -13,13 +13,15 @@ We provide a suite of complementary insight sources for complete regulatory inte
 Official statutes, regulation numbers, settled legal frameworks, industry impact.
 
 ### 🤭 Lil LOTL Stack  
+**A "diet" dose of the Big Picture in Big Weed**
 A summary highlighting the most important portions of the law, relative to state and industry trends at the time of publishing.
 
 ### 🌑 Penumbrant Prose Manual  
 **The regulatory shadows.**  
 Gaps, ambiguities, enforcement uncertainties, risk surfaces.
 
-### 🥬 Field Notes  
+### 🥬 Field Notes
+**The winds of change surrounding canna-policy: translated**
 Comprehensive insights on one state's policy terrain, including historical political climate and ongoing influences shaping regulatory policy.
 
 ### 📄 Margin Notes  
@@ -30,4 +32,6 @@ Expanding on **Penumbrant Prose Manuals**, this document captures lived experien
 
 ### ✒️ PENpoints Deep Dives  
 Specific explorations into overlooked facets of regulatory complexities—ranging from METRC contradictions to state-specific implementation issues.
-Together, these sources ensure you have the latest engineering synthesis of jurisprudence clarity pre-bundles-oriented compliance-obstacle solutions.
+
+**Purpose of Offering a Multi-Faceted, Rich Free Trove of Legal Insights & Interpretations (especially when it's not legal advice)**:
+Having the complete picture of an otherwise ambiguous foundation of policies that can trip up any operator just making sure the cannabis is great, the people are satisfied, and their employees have a job the next day. 
