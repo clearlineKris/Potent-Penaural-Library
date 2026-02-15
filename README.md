@@ -1,4 +1,4 @@
-# ClearLine Regulatory Intelligence
+# ClearLine Regulatory Intelligence - The Grey Matter Praxis (aka the "PL")
 ## Cannabis Compliance Clarity: From Black-Letter Law to Regulatory Shadows
 
 ---
