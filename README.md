@@ -1,37 +1,65 @@
-# ClearLine Regulatory Intelligence - The Grey Matter Praxis (aka the "PL")
-## Cannabis Compliance Clarity: From Black-Letter Law to Regulatory Shadows
+ClearLine Regulatory Intelligence — The Grey Matter Praxis
 
+The intelligence archive. The methodology, demonstrated.
 ---
 
-## 🎯 The ClearLine Approach  
-Most cannabis compliance resources tell you **what the law says**.  
-ClearLine tells you **what the law says** AND **where the law is unclear**.  
-We provide a suite of complementary insight sources for complete regulatory intelligence:
+Most compliance resources tell you what the law says.
 
-### 📜 LOTL Stack (Letter of the Law)
-**The law everyone knows.**  
-Official statutes, regulation numbers, settled legal frameworks, industry impact.
+ClearLine tells you what the law *says*, where it's unclear, how regulators have actually behaved, and what that means for your operation right now.
+Grey-Matter-Praxis is the public record of that work — a versioned, structured intelligence archive covering cannabis-regulated markets across jurisdictions. 
 
-### 🤭 Lil LOTL Stack  
-**A "diet" dose of the Big Picture in Big Weed**
-A summary highlighting the most important portions of the law, relative to state and industry trends at the time of publishing.
+*It is not a summary. It is not a checklist. It is the full document stack, organized by type and updated as the regulatory landscape moves.*
 
-### 🌑 Penumbrant Prose Manual  
-**The regulatory shadows.**  
-Gaps, ambiguities, enforcement uncertainties, risk surfaces.
+This is what ClearLine *produces*. This is how ClearLine **thinks"*.
 
-### 🥬 Field Notes
-**The winds of change surrounding canna-policy: translated**
-Comprehensive insights on one state's policy terrain, including historical political climate and ongoing influences shaping regulatory policy.
 
-### 📄 Margin Notes  
-Expanding on **Penumbrant Prose Manuals**, this document captures lived experiences, challenges, and operator feedback to elevate on-the-ground perspectives.
+## The Knowledge Moat Stack
+ClearLine's intelligence methodology outputs seven document types, each serving a distinct function in the complete regulatory picture:
 
-### 💼 Penumbrant Executive Briefs  
-**A digestible version of the gray area.** These documents highlight pressing high-level topics and findings written concisely for executives.
+1 📜 LOTL Stack — **Letter of the Law**
+The statutory foundation. Official statutes, regulation numbers, settled legal frameworks, and their operational implications. The law everyone knows, documented with precision.
 
-### ✒️ PENpoints Deep Dives  
-Specific explorations into overlooked facets of regulatory complexities—ranging from METRC contradictions to state-specific implementation issues.
+2 🤭 Lil LOTL Stack
+A calibrated summary of the most consequential statutory provisions relative to current state and industry trends. The signal extracted from the noise of the full statute.
 
-## **Purpose of Offering a Multi-Faceted, Rich Free Trove of Legal Insights & Interpretations (especially when it's not legal advice)**:
-Having the complete picture of an otherwise ambiguous foundation of policies that can trip up any operator just making sure the cannabis is great, the people are satisfied, and their employees have a job the next day. 
+3 🌑 Penumbrant Prose
+The regulatory shadows. Gaps, ambiguities, enforcement uncertainties, and risk surfaces that the statute doesn't resolve. Where the law ends and regulator discretion begins.
+
+4 🥬 Field Notes
+The on-the-ground layer. Lived operator experiences, compliance challenges, and field feedback that the statute doesn't capture but enforcement behavior reflects.
+
+5 📄 Margin Notes
+The winds of change surrounding cannabis policy, translated. A comprehensive read of one state's policy terrain — historical political climate, ongoing influences, and the forces actively shaping regulatory direction.
+
+6 💼 Penumbrant Executive Briefs (EBs)
+The gray area, made executive-ready. High-level synthesis of the most pressing ambiguities and findings, written for decision-makers who need clarity without the full archive.
+
+7 ✒️ PENpoints Dispatch
+Focused explorations of specific overlooked complexities — METRC contradictions, state-specific implementation failures, enforcement pattern anomalies, and the regulatory details that operators trip on when they're not looking.
+
+---
+## Why This Exists as a Public Archive
+Operators in regulated markets are navigating an inherently ambiguous foundation — policies written by legislators, interpreted by agencies, enforced by inspectors, and revised by political currents. The gap between what the law says and what it means in practice is where enforcement risk actually lives.
+
+ClearLine makes that gap legible. The archive is public because the intelligence should be accessible — and because a client doing due diligence deserves to see the methodology, not just a description of it.
+
+This is **not legal advice**. It is *regulatory intelligence*: pattern recognition, structural analysis, and interpretive clarity from someone who reads the shadows as carefully as the statutes.
+
+## Structure
+Grey-Matter-Praxis/
+├── clearline-regulatory-intelligence/   # Core intelligence outputs by jurisdiction
+├── product-previews/                    # Sample deliverables across document types
+├── .github/agents/                      # Agent configuration for intelligence workflows
+└── .agent/                              # 
+
+### Additional agent tooling
+The agent infrastructure reflects how ClearLine integrates AI tooling into research and synthesis workflows — with human judgment at every interpretive decision point.
+
+
+## The Broader System
+Grey-Matter-Praxis is the demonstration layer of ClearLine's Core Intelligence Layer (CIL) — the analytical foundation that converts regulatory input into structured decision output across the Jurisdictional Signal Engine, Enforcement Matrix, Drift Index, and Stalwart Suite.
+For the full ClearLine architecture and engagement information, visit the ClearLine Portfolio or the live site at clearlinekris.github.io.
+
+ClearLine™ — Anticipatory, not reactive. 
+---
+This repository and its contents constitute regulatory intelligence documentation, not legal advice. ClearLine is not a law firm and does not provide legal representation. Consult qualified legal counsel for jurisdiction-specific legal guidance.
